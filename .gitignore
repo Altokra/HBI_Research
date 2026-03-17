@@ -1,0 +1,17 @@
+# .gitignore 文件内容
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略大型数据和仿真结果文件
+*.csv
+*.mat
+*.aedtresults/
+*.asol
+*.lock
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
+.obsidian/
