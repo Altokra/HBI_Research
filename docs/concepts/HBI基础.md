@@ -73,7 +73,7 @@ related_papers: [[C2W_HBI]]
 
 ## 🔁 相关概念 (Related Concepts)
 
-- [[C2W vs W2W]] - 两种键合方式对比
+- [[C2W_vs_W2W]] - 两种键合方式对比
 - [[接触电阻]] - 关键电学参数
 - [[寄生参数]] - R/L/C参数
 - [[Micro-bump]] - 传统互连方式对比

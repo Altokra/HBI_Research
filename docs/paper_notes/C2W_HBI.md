@@ -37,11 +37,11 @@ learning_level: 工艺基础
 - **键合工艺**：Cu-Cu混合键合 (Hybrid Bonding)
 - **关键参数**：
 
-  | 参数 | 数值 | 单位 |
-  |------|------|------|
-  | Pitch | 10 | μm |
-  | Contact Resistance | ~50 | mΩ |
-  | Bonding Temperature | 250-300 | °C |
+| 参数                  | 数值      | 单位  |
+| ------------------- | ------- | --- |
+| Pitch               | 10      | μm  |
+| Contact Resistance  | ~50     | mΩ  |
+| Bonding Temperature | 250-300 | °C  |
 
 ### 2.1 技术优势
 
@@ -53,7 +53,7 @@ learning_level: 工艺基础
 
 ### 3.1 电学特性 (Electrical Characteristics)
 
-- **接触电阻**：~50 mΩ per bump
+- **接触电阻**：~50 $m\Omega$ per bump
 - **寄生电容**：较micro-bump降低（无焊料凸点）
 - **寄生电感**：更短的互连路径，电感更小
 - **RC延迟**：整体改善
@@ -103,7 +103,7 @@ learning_level: 工艺基础
 
 ## 🔗 6. 相关链接 (Links)
 
-- **前置知识**：[[HBI基础]], [[C2W vs W2W]]
+- **前置知识**：[[HBI基础]], [[C2W_vs_W2W]]
 - **相关概念**：[[接触电阻]], [[寄生参数]], [[热阻]]
 - **参考文献**：
   - 待补充（论文中引用的关键文献）
