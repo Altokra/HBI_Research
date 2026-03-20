@@ -1,16 +1,17 @@
 ---
 type: paper
 title: "{{title}}"
-authors: 
-year: 
-journal_conference: 
-doi: 
-url: 
+authors:
+year:
+journal_conference:
+doi:
+url:
 tags:
   - paper/reading
-status: 🟩 待读 # 🟩 待读 / 🟨 阅读中 / 🟦 已读 
+status: 🟩 待读 # 🟩 待读 / 🟨 阅读中 / 🟦 已读
 rating: ⭐⭐⭐
 date_created: {{date}}
+learning_level: # 工艺基础 / 电学基础 / 深入研究
 ---
 
 > [!abstract] 一句话总结 (One-Sentence Summary)
