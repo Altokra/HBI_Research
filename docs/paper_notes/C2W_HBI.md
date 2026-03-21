@@ -14,6 +14,7 @@ status: 🟨 阅读中
 rating: ⭐⭐⭐
 date_created: 2026-03-17
 learning_level: 工艺基础
+pdf: "[[C2W_Hybrid_Bonding_Interconnect_Technology_for_Higher_Density_and_Better_Thermal_Dissipation_of_High_Bandwidth_Memory-dual.pdf]]"
 ---
 
 > [!abstract] 一句话总结 (One-Sentence Summary)
@@ -106,5 +107,5 @@ learning_level: 工艺基础
 - **前置知识**：[[HBI基础]], [[C2W_vs_W2W]]
 - **相关概念**：[[接触电阻]], [[寄生参数]], [[热阻]]
 - **参考文献**：
-  - 待补充（论文中引用的关键文献）
+  - 
 - **代码仓库**：
